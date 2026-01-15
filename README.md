@@ -1,5 +1,6 @@
 # Fluffy Lib
 Welcome to Fluffy Lib! A collection of modules and additions created by MiniFRC team The Pink Fluffy Unicorns [83].
+
 <img width="500" height="500" alt="Pink Fluffy Unicorns Logo" src="https://github.com/user-attachments/assets/36a37954-2a3a-4504-87b1-d1262bf52d30" />
 
 ## About
